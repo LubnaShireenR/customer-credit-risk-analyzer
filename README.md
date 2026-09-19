@@ -538,10 +538,16 @@ The final dashboard provides a clear view of loan defaults, customer characteris
 
 ---
 
-## Author
+## 👩‍💻 Developed By
 
-### Lubna Shireen R
+**Lubna Shireen R**
 
-B.Tech Electronics and Communication Engineering | Data Science
+**Student | Data Enthusiast | Learner**
+
+## ⭐ Support
+
+If you found this project useful, consider giving it a star ⭐ 
+
+
 
 Python • SQL • MySQL • Power BI • Pandas • Data Analytics • Data Visualization • Business Intelligence
