@@ -360,7 +360,8 @@ An interactive Customer Credit Risk Dashboard was developed using Microsoft Powe
 
 ## Dashboard Preview
 
-<img width="1003" height="562" alt="Customer Credit Risk Analyzer Dashboard" src="https://github.com/user-attachments/assets/64e1b9ec-2509-4815-9cc1-9850fc8035ce" />
+<img width="1322" height="745" alt="Customer Credit Risk Analyzer Dashboard" src="https://github.com/user-attachments/assets/96494760-f2ce-468e-ae73-b17e63701bb4" />
+
 
 
 ---
